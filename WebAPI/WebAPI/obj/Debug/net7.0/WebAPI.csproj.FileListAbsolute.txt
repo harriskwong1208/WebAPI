@@ -31,3 +31,6 @@ C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
 C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\obj\Debug\net7.0\WebAPI.pdb
 C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
 C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harri\Desktop\WebAPI\WebAPI\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
